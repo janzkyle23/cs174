@@ -26,7 +26,7 @@ You'll never know if you don't go
    Am                      C
 You'll never shine if you don't glow
  
-[Chorus]
+[Chorus 1]
 G                  C           C#m            C
 Hey now you're an All Star get your game on, go play
 G                  C           C#m            C
@@ -36,7 +36,7 @@ And all that glitters is gold
 C               G     F                C
 Only shooting stars break the mold
  
-[Verse 1]
+[Verse 2]
    G                        D
 It's a cool place and they say it gets colder
    Am                 C
@@ -55,7 +55,7 @@ My world's on fire how about yours
            Am                             C
 That's the way I like it and I never get bored
  
-[Chorus]
+[Chorus 2]
 G                  C           C#m            C
 Hey now you're an All Star get your game on, go play
 G                  C           C#m            C
@@ -101,7 +101,7 @@ You'll never know if you don't go
    Am                      C
 You'll never shine if you don't glow
  
-[Chorus]
+[Chorus 3]
 G                  C           C#m            C
 Hey now you're an All Star get your game on, go play
 G                  C           C#m            C
